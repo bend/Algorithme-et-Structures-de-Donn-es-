@@ -1,0 +1,2 @@
+Pour lancer l'application, excuter la commande suivante dans un terminal:
+java -jar derive.jar [fichier ˆ analyser]
