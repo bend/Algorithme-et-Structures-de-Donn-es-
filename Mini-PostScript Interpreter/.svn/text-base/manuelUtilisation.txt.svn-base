@@ -1,4 +1,0 @@
-Pour lancer l'interpréter, il faut depuis un terminal exécuter la commande 
-java -jar Interpreter.jar fichier.mps.
-Le fichier doit avoir une extension 'mps' pour être interpreté.
-Il créera un fichier output.txt dans le répertoire courant.
