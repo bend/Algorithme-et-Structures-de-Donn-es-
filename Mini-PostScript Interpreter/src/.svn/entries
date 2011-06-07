@@ -1,52 +1,0 @@
-10
-
-dir
-13
-https://mpsinterpreter.googlecode.com/svn/Mini-PostScript%20Interpreter/src
-https://mpsinterpreter.googlecode.com/svn
-
-
-
-2010-10-03T10:53:38.198915Z
-13
-ben.daccache
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-c3a48cd9-647a-3d8f-0ac3-6962d1f1b703
-
-
-
-
-
-
-0
-
-()
-
-IO
-dir
-
-interpreter
-dir
-
-main
-dir
-
-operations
-dir
-
-stack
-dir
-
