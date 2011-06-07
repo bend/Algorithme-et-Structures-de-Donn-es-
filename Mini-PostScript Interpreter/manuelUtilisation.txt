@@ -1,4 +1,4 @@
-Pour lancer l'interprter, il faut depuis un terminal excuter la commande 
+Pour lancer l'interpreter, il faut depuis un terminal exÃ©cuter la commande 
 java -jar Interpreter.jar fichier.mps.
-Le fichier doit avoir une extension 'mps' pour tre interpret.
-Il crera un fichier output.txt dans le rpertoire courant.
+Le fichier doit avoir une extension 'mps' pour Ãªtre interprÃ©tÃ©.
+Il crÃ©era un fichier output.txt dans le rÃ©pertoire courant.
