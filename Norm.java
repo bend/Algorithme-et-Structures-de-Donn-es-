@@ -10,7 +10,7 @@ public static int[] nbSpaceAndBlanc(char[] a){
 	int nbBlanc = 0;
 	if (a[0]==' ') nbWords= 0; else nbWords = 1;
 
-	//INV: 0=<i<a.length && nbWords contient le nombre de mots dans a[0..i]
+	//INV: 0=<i<a.length-1 && nbWords contient le nombre de mots dans a[0..i]
 	//	   && nbBlanc contient le nombre de cases vides dans a[0..i]
 	
 	// H: i=a.length

@@ -94,7 +94,7 @@ class Suite{
 	}
 
 	public static void main(String[] args){
-		start(50);
+		start(10);
 	}
 
 
